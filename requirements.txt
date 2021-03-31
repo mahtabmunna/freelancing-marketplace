@@ -6,7 +6,7 @@ docutils==0.14
 get==0.0.21
 gunicorn==19.7.1
 idna==2.6
-lxml==4.0.0
+lxml==4.6.3
 mysqlclient==1.3.12
 post==0.0.13
 psycopg2==2.7.3.2
